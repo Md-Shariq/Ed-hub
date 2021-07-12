@@ -1,0 +1,465 @@
+*{
+    box-sizing: border-box;
+    font-family:'Roboto', sans-serif;
+    margin: 0;
+}
+
+
+.fs-10 {
+    font-size: 10px;
+}
+
+.fs-12 {
+    font-size: 12px;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-16 {
+    font-size: 16px;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-25 {
+    font-size: 25px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+.fs-35 {
+    font-size: 35px;
+}
+.fs-40 {
+    font-size: 40px;
+}
+.fs-45 {
+    font-size: 45px;
+}
+
+.fw-300 {
+    font-weight: 300;
+}
+
+.fw-400 {
+    font-size: 400;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
+.fw-700 {
+    font-weight: 700;
+}
+.fw-800 {
+    font-weight: 800;
+}
+.fw-900 {
+    font-weight: 900;
+}
+
+.mr-5 {
+    margin-right: 5px;
+}
+.mr-10 {
+    margin-right: 10px;
+}
+
+.mr-15 {
+    margin-right: 15px;
+}
+
+.mr-20 {
+    margin-right: 20px;
+}
+.mr-30 {
+    margin-right: 30px;
+}
+.ml-10 {
+    margin-left: 10px;
+}
+.ml-15 {
+    margin-left: 15px;
+}
+.ml-30 {
+    margin-left: 30px;
+}
+.mb-60 {
+    margin-bottom: 60px;
+}
+
+.mb-30 {
+    margin-bottom: 40px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mb-15 {
+    margin-bottom: 15px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+.mt-10 {
+
+    margin-top: 10px;
+}
+.pt-10 {
+    padding-top: 10px;
+}
+
+.pt-15 {
+    padding-top: 15px !important;
+}
+.pt-20 {
+    padding-top: 20px;
+}
+.pt-30 {
+    padding-top: 30px;
+}
+.pt-50 {
+    padding-top: 50px;
+}
+.pb-40 {
+    padding-bottom: 40px;
+}
+
+.pb-30 {
+    padding-bottom: 30px;
+}
+
+.pb-20 {
+    padding-bottom: 20px;
+}
+
+.pb-15 {
+    padding-bottom: 15px !important;
+}
+
+.pb-10 {
+    padding-bottom: 10px;
+}
+.pr-5 {
+    padding-right: 5px;
+}
+.pr-10 {
+    padding-right: 10px;
+}
+.pr-15 {
+    padding-right: 15px;
+}
+.pr-30 {
+    padding-right: 30px;
+}
+.pb-60 {
+    padding-bottom: 60px;
+}
+.pr-100 {
+    padding-right: 100px;
+}
+.pr-20 {
+    padding-right: 20px;
+}
+.pl-20 {
+    padding-left: 20px;
+}
+.pl-15 {
+    padding-left: 15px;
+}
+.line-height {
+    line-height: 34px;
+}
+.d-flex {
+    display: flex;
+}
+.b-r {
+    border-radius: 8px;
+}
+
+.gray {
+    color: gray;
+}
+.white {
+    color: white;
+}
+
+.black {
+    color: black;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+.text-center {
+    text-align: center;
+}
+.border-circle {
+    border-radius: 50%;
+}
+
+/* nav start */
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+.navbar {
+    background-color: white;
+    box-shadow: 0px 10px 20px whitesmoke;
+}
+
+.nav-btn {
+    min-width: 210px;
+    padding: 10px 25px;
+    background-color: #edf6ff;
+    color: #0071dc;
+    border: none;
+}
+
+
+/* nav closed */
+
+/* header start */
+
+
+.header {
+    width: 100%;
+    background-color: #eaf9f6;
+    padding-bottom: 150px;
+    padding-top: 120px;
+}
+.ONLINE-SYSTEM {
+    font-weight: 600;
+    color: #0071dc;
+}
+.header-heading {
+    font-weight: 900;
+    font-size: 50px;
+}
+.button-primary {
+    font-size: 18px;
+    border: none;
+    background-color: white;
+    color:#0071dc ;
+    font-weight: 600;
+    padding: 15px 15px;
+}
+.header-detail {
+    padding-left: 120px;
+    padding-top: 200px;
+    padding-right: 50px;
+}
+
+
+
+/* header closed */
+
+
+/*article start*/
+
+.man-icon{
+    width: 60px;
+    height: 60px;
+    border-radius: 14px;
+}
+.article-card {
+    width: 250px;
+}
+.bc-sky {
+    background-color: #27c3a01a ;
+}
+.bc-yello{
+    background-color: #f7b3011a;
+}
+
+
+
+
+/*article closed*/
+
+
+/*Top Categories start*/
+.Top-Categorie {
+    width: 100%;
+    background-color:#eaf9f6 ;
+    padding-bottom: 100px;
+
+}
+.top-head {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-size: 40px;
+}
+.top-card {
+    width: 250px;
+    background-color: white;
+    border-radius: 12px;
+    padding: 45px 40px;
+}
+
+/*Top Categories closed*/
+
+
+
+/* Our Popular Courses start*/
+.course-body {
+    margin-bottom: 120px;
+}
+
+.all-a-tag {
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 12px;
+    margin-bottom: 100px;
+}
+.all-a-tag a {
+    text-decoration: none;
+    color: grey;
+    font-size: 18px;
+    font-weight: 400;
+}
+.course-card {
+    width: 31%;
+    background-color: white;
+    box-shadow: 0px 0px 20px gainsboro;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.course-card-image-wrapper {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    overflow: hidden;
+    margin-top: -50px;
+}
+
+.course-card-image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.coding {
+    font-weight: 500;
+    color: #28a745;
+}
+.Margaret-Mckinney {
+    color: #0071dc;
+}
+.border-bottom {
+    border-bottom: 1px solid lightgray;
+}
+
+/*Our Popular Courses closed*/
+
+
+/*next article start*/
+
+.next-article-body {
+    width: 100%;
+    background-color: #f7f7f7;
+    padding-left: 95px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.chevron-btn {
+    padding: 12px 19px;
+    border: none;
+    background-color: white;
+    color: #0071dc;
+}
+.next-article-card {
+    width: 31%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+/*next article closed */
+
+
+/*Our Instructors start*/
+
+.border-radius {
+    border-radius: 20px;
+}
+.Steve-Johnson {
+    position: relative;
+}
+.Steve-Johnson-detail {
+    position: absolute; 
+    width: 300px;
+    padding: 30px 40px;
+    background-color: white;
+    bottom: 45px;
+    right: 40px;
+    border-bottom-right-radius: 40px;
+}
+.Olivia-Jackson {
+    position: relative;
+}
+.Olivia-Jackson-detail {
+    position: absolute;
+    width: calc(100% - 50px);
+    height: 135px;
+    background-color: white;
+    bottom: 10px;
+    left: 25px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    
+}
+
+/*Our Instructors closed*/
+
+/*-Our Partners start*/
+.partner-logo-wrapper {
+    width: 25%;
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.our-partners-logo {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0px 0px 30px gainsboro;
+}
+
+
+/*-Our Partners closed*/
+
+/*Finding course start*/
+
+.finding-course {
+    width: 100%;
+     padding: 60px;
+    background-color: #edf6ff;
+}
+.finding-corse-wrapper {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.Let-Us-Help {
+    font-size: 21px;
+    color:#0071dc ;
+
+}
+
+/*Finding course closed*/
